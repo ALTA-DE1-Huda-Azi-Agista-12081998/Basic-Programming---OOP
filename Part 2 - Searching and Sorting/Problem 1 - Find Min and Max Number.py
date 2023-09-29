@@ -18,7 +18,7 @@ def find_min_and_max(arr):
     result = f"Min: {min_num} Index: {min_index}, Max: {max_num} Index: {max_index}."
     return result
 
-# Sample Test Cases
+
 print(find_min_and_max([5, 7, 4, -2, -1, 8]))
 # Output: The minimum is -2 at index 3, and the maximum is 8 at index 5.
 
